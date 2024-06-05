@@ -1,4 +1,4 @@
-# practica_git_grupo12
+# Numeracion de proyecto
 
 1 Carlos
 
