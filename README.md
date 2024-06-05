@@ -1,4 +1,4 @@
-# practica_git_grupo12
+# quiero ver el mundo arder
 
 1 Carlos
 
