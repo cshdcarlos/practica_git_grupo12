@@ -1,6 +1,6 @@
 # practica_git_grupo12
 
-1
+1 Carlos
 
 2
 
